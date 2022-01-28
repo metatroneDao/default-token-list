@@ -335,4 +335,12 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x22D62b19b7039333ad773b7185BB61294F3AdC19/logo.png"
   }
+		{
+    "address": "0x725553bc9aa0939362671407dfdeb162dd37d168",
+    "chainId": 1666600000,
+    "name": "Metatr.one",
+    "symbol": "MET",
+    "decimals": 18,
+    "logoURI": "https://bartone.fi/up/vipermet.png"
+  }
 ]
