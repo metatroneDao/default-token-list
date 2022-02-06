@@ -327,12 +327,20 @@
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xBbD83eF0c9D347C85e60F1b5D2c58796dBE1bA0d/logo.png"
   },
-	{
-    "address": "0x22D62b19b7039333ad773b7185BB61294F3AdC19",
+		{
+    "address": "0xBbD83eF0c9D347C85e60F1b5D2c58796dBE1bA0d",
     "chainId": 1666600000,
-    "name": "Staked One",
-    "symbol": "stONE",
+    "name": "Cheese",
+    "symbol": "CHEEZ",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xBbD83eF0c9D347C85e60F1b5D2c58796dBE1bA0d/logo.png"
+  },
+	{
+    "address": "0x725553bc9aa0939362671407dfdeb162dd37d168",
+    "chainId": 1666600000,
+    "name": "Metatr.one",
+    "symbol": "MET",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x22D62b19b7039333ad773b7185BB61294F3AdC19/logo.png"
+    "logoURI": "https://bartone.fi/up/logoround.png"
   }
 ]
